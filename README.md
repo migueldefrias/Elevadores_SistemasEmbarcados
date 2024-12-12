@@ -1,4 +1,4 @@
-# **Trabalho 2 - 2024.1**
+# **Trabalho 2 - 2024.1 - NOTA 8.0**
 
 ## **Autores**
 **Nome:** Miguel Matos Costa de Frias Barbosa &emsp; **Matrícula:** 211039635 <br>
@@ -68,14 +68,14 @@ $ python3 main.py
 
 ## **Gráficos**
 
-<div align = "center"><img src="https://raw.githubusercontent.com/FGA-FSE/trabalho-2-elevador-fse-yan-luca/main/Images/grafico1.jpg?token=GHSAT0AAAAAACTQIL7XH3TSQH4VBC6C5U5QZVRXPOQ">
+<div align = "center"><img src="/Images/grafico1.jpg">
 <p>Imagem 1<br> Teste nos 2 elevadores</p></div>
 
-<div align = "center"><img src="https://raw.githubusercontent.com/FGA-FSE/trabalho-2-elevador-fse-yan-luca/main/Images/grafico2.png?token=GHSAT0AAAAAACTQIL7XEEBJRNPS66I4WAGQZVRXPEQ">
+<div align = "center"><img src="/Images/grafico2.png">
 <p>Imagem 2<br> Teste no elevador 2</p></div>
 
-<div align = "center"><img src="https://raw.githubusercontent.com/FGA-FSE/trabalho-2-elevador-fse-yan-luca/main/Images/grafico3.png?token=GHSAT0AAAAAACTQIL7XHGMUIVUQIT6PD4VUZVRXO4A">
+<div align = "center"><img src="/Images/grafico3.png">
 <p>Imagem 3<br> Teste do botão de emergência</p></div>
 
-<div align = "center"><img src="https://raw.githubusercontent.com/FGA-FSE/trabalho-2-elevador-fse-yan-luca/main/Images/image.png?token=GHSAT0AAAAAACTQIL7XWJCEJO55I27LXF72ZVRXRPQ">
+<div align = "center"><img src="/Images/image.png">
 <p>Imagem 4<br> Funcionamento da tela com temperatura, posição e movimento</p></div>
